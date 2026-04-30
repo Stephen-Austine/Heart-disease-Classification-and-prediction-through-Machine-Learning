@@ -1,4 +1,4 @@
-# 🫀 ECG Arrhythmia Classification via Deep Learning
+# ECG Arrhythmia Classification via Deep Learning
 
 > **DSA4050 — Deep Learning for Computer Vision** | Group 7
 >
@@ -15,7 +15,7 @@ A full end-to-end pipeline that frames ECG analysis as a **computer vision probl
 
 ---
 
-## 📋 Table of Contents
+## Table of Contents
 
 - [Problem Statement](#problem-statement)
 - [Approach Overview](#approach-overview)
@@ -75,7 +75,7 @@ The key design insight is that cardiac morphology differences between arrhythmia
 
 All other annotation symbols (pacemaker beats, fusion beats, rhythm markers) are discarded to avoid label noise — their morphology does not consistently correspond to a single condition.
 
-> ⚠️ **MI Label Note:** The MIT-BIH Arrhythmia Database contains no explicit myocardial infarction labels. Left and right bundle branch block beats (L, R) are used as an accepted research proxy for MI-associated conduction abnormalities. This is acknowledged as a limitation.
+**MI Label Note:** The MIT-BIH Arrhythmia Database contains no explicit myocardial infarction labels. Left and right bundle branch block beats (L, R) are used as an accepted research proxy for MI-associated conduction abnormalities. This is acknowledged as a limitation.
 
 ---
 
