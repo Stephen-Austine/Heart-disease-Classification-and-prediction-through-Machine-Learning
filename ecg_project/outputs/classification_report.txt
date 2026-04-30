@@ -1,0 +1,12 @@
+ECG IMAGE CLASSIFICATION — TEST SET RESULTS
+============================================================
+              precision    recall  f1-score   support
+
+        AFib     0.8299    0.9377    0.8805       385
+  Arrhythmia     0.9663    0.9770    0.9716      1085
+          MI     0.9934    0.9852    0.9893      2299
+      Normal     0.9848    0.9707    0.9777      3000
+
+    accuracy                         0.9747      6769
+   macro avg     0.9436    0.9676    0.9548      6769
+weighted avg     0.9759    0.9747    0.9751      6769
