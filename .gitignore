@@ -1,3 +1,6 @@
 myenv/
 .DS_Store
 __pycache__/
+
+.Rhistory
+try data/
