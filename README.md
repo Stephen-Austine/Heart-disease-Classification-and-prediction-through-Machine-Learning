@@ -2,7 +2,7 @@
 
 > A polished end-to-end ECG classification project that converts MIT-BIH cardiac signals into spectrogram images and classifies them using EfficientNetB0.
 >
-> Developed for DSA4050 — Deep Learning for Computer Vision.
+> Deep Learning for Computer Vision.
 
 ## Project Summary
 
